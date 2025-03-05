@@ -1,0 +1,39 @@
+h1 {
+    color: red;
+    background-color: black;
+    width: 500px;
+    margin: auto;
+    text-align: center;
+}
+
+.paragrafo {
+    text-align: center;
+    font-size: 30px;
+    border: 10px solid black;
+}
+
+.lista {
+    font-size: 25px;
+    color: white;
+    background-color: black;
+    margin: auto;
+    width: 500px;
+    padding: 30px;
+}
+
+ul {
+    color: rgb(0, 255, 0);
+}
+
+a {
+    color: white;
+    background-color: blue;
+    font-size: 25px;
+    text-decoration: none;
+    padding: 20px;
+}
+
+a:hover {
+    color: aqua;
+    cursor: pointer;
+}
