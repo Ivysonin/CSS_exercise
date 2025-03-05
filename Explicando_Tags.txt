@@ -1,0 +1,42 @@
+	    CSS -> LINGUAGEM DE ESTILIZAÇÃO
+
+Importação do CSS para HTML -- <link:css>
+
+class -- Usada para alterar um item específico, edita usando .
+
+----------------- TAGS -----------------
+
+color - Altera a cor do texto
+
+
+background-color - Dá uma cor de fundo para o documento
+
+
+font-size - Aumenta o tamanho da letra em pixels "px"
+
+
+border - Dá uma borda ao texto. pode definir a espessura da borda (em pixels), o estilo (como "solid") e a cor
+
+
+margin - Define a distância de um elemento para outro em pixels(px)
+
+
+padding - Define a distância dentro de um elemento(px)
+
+
+width - Define o tamanho da largura (px)
+
+
+height - Define o tamanho da altura (px)
+
+
+text-align - Muda a posição do texto na tela
+
+
+text-decoration:none - Remove o sublinhado dos links
+
+
+:hover - Quando o mouse passa em cima do elemento
+
+
+cursor:pointer - Altera o cursor do mouse quando passa em cima do elemento
